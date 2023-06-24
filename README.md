@@ -144,7 +144,7 @@ Post-disaster transportation and humanitarian logistics require different manage
 
 # EU
 
-## KTH
+## KTH(感觉不怎么match,不知道学校项目能不能去)
 
 - Geoinformatics
 
